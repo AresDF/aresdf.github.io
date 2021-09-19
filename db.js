@@ -1,4 +1,4 @@
-{
+export const {
     "product": [{
             "id": "1257612",
             "category": "mixyfruit",
